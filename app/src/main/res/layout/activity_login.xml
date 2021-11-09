@@ -29,10 +29,6 @@
             android:layout_column="1"
             android:text="First Name" />
 
-        <EditText
-            android:layout_width="203dp"
-            android:layout_height="wrap_content"
-            android:width="200px" />
     </TableRow>
 
     <TableRow>
@@ -43,10 +39,6 @@
             android:layout_column="1"
             android:text="Last Name" />
 
-        <EditText
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:width="100px" />
     </TableRow>
 
     <TableRow
@@ -58,13 +50,6 @@
             android:layout_height="wrap_content"
             android:layout_column="1"
             android:text="E-mail Address" />
-
-        <EditText
-            android:id="@+id/editTextTextEmailAddress"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textEmailAddress" />
 
     </TableRow>
 
@@ -78,14 +63,6 @@
             android:layout_column="1"
             android:text="Password" />
 
-        <EditText
-            android:id="@+id/Password"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_column="2"
-            android:ems="10"
-            android:inputType="numberPassword" />
-
     </TableRow>
 
     <TableRow
@@ -97,14 +74,6 @@
             android:layout_height="wrap_content"
             android:layout_column="1"
             android:text="Confirm Password" />
-
-        <EditText
-            android:id="@+id/Password"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_column="2"
-            android:ems="10"
-            android:inputType="numberPassword" />
 
     </TableRow>
 
